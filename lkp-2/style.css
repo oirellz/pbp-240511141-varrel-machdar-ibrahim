@@ -2,7 +2,7 @@
  --bg-color: #eef4ff;
  --bg-gradient: linear-gradient(135deg, #eef4ff 0%, #f8f5ff 48%, #e7f8f5 100%);
  --bg-image: none;
- --header-image: url("assets/background.gif");
+ --header-image: url("assets/Background.gif");
  --overlay: rgba(255, 255, 255, 0.76);
  --text-color: #172033;
  --muted-color: #61708a;
